@@ -9,7 +9,6 @@ Este proyecto tiene como objetivo proporcionar una guía y ejemplos prácticos p
 ## Estructura del Repositorio
 
 - **Documentación**: Contiene archivos con información detallada sobre la conexión al datalake, requisitos previos, configuración de permisos y consideraciones de seguridad.
-- **Cuaderno en Python**: Incluye un cuaderno en formato Jupyter Notebook que proporciona código y pasos para realizar la conexión al datalake.
 - **Ejemplos o muestras de código**: Contiene ejemplos de código adicionales que demuestran diferentes aspectos de la conexión al datalake, como carga de datos o consulta de datos.
 - **Archivos de configuración**: Contiene archivos de configuración necesarios para la conexión, como credenciales de acceso y configuraciones específicas.
 
